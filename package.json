@@ -1,0 +1,29 @@
+{
+  "name": "red-contrib-eyahd-taiponrock",
+  "version": "1.0.0",
+  "node-red": { 
+    "nodes": { 
+    "eyahd-taiponrock": "node.js" 
+    } 
+  },
+  "description": "creating node and publish it",
+  "keywords": [
+    "\"node-red",
+    "taiponrock\""
+  ],
+  "homepage": "https://github.com/EyaHaddad/node-red-contrib-eyahd-taiponrock#readme",
+  "bugs": {
+    "url": "https://github.com/EyaHaddad/node-red-contrib-eyahd-taiponrock/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EyaHaddad/node-red-contrib-eyahd-taiponrock.git"
+  },
+  "license": "ISC",
+  "author": "eya haddad",
+  "type": "commonjs",
+  "main": "node.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  }
+}
